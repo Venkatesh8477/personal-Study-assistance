@@ -1,0 +1,22 @@
+[
+  {
+    "subject": "DBMS",
+    "question": "What is a primary key?",
+    "expected_facts": ["primary key"]
+  },
+  {
+    "subject": "DBMS",
+    "question": "What is a foreign key?",
+    "expected_facts": ["foreign key"]
+  },
+  {
+    "subject": "DBMS",
+    "question": "What is normalization in DBMS?",
+    "expected_facts": ["normalization"]
+  },
+  {
+    "subject": "Operating Systems",
+    "question": "What is an operating system?",
+    "expected_facts": ["operating system"]
+  }
+]

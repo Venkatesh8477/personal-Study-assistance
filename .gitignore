@@ -1,0 +1,8 @@
+.venv/
+wheelhouse/
+/study_assistant_data/documents/
+/study_assistant_data/faiss_index/
+/study_assistant_data/documents.json
+.streamlit/secrets.toml
+__pycache__/
+*.py[cod]
